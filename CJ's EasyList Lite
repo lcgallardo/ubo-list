@@ -7,9 +7,9 @@
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! 
 ! This is a lite version of Easylist.Filters triggered only on Simplified Chinese websites.
-! If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite" .
+! If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJ's EasyList Lite" .
 ! Fork of EasyList https://easylist-downloads.adblockplus.org/easylist.txt
-! Email (cjxlist@gmail.com)
+! Email (cjlist@gmail.com)
 /api/ads?
 /popunder1000.
 /adspaces.
