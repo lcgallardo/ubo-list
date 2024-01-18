@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Version: 202012080856
-! Title: CJ's EasyList Lite
+! Title: CJX's EasyList Lite
 ! Last modified: 2020/12/08 08:56 +0800
 ! Expires: 365 days (update frequency)
-! Homepage: https://github.com/
+! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! 
 ! This is a lite version of Easylist.Filters triggered only on Simplified Chinese websites.
-! If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJ's EasyList Lite" .
+! If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite" .
 ! Fork of EasyList https://easylist-downloads.adblockplus.org/easylist.txt
-! Email (cjlist@gmail.com)
+! Email (cjxlist@gmail.com)
 /api/ads?
 /popunder1000.
 /adspaces.
