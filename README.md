@@ -1,3 +1,3 @@
 # ubo-list
 
-https%3A%2F%2Feasylist-downloads.adblockplus.org%2Feasylistchina-minified.txt
+https://easylist-downloads.adblockplus.org/easylistchina-minified.txt
